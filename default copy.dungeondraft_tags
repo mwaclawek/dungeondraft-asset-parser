@@ -1,0 +1,16 @@
+{
+	"tags": {
+		"MyTag": [
+			"textures/objects/sample_barrel.png",
+			"textures/objects/sample_cauldron.png"
+		],
+		"Colorable": [
+			"textures/objects/sample_cauldron.png"
+		]
+	},
+	"sets": {
+		"Example Set": [
+			"MyTag"
+		]
+	}
+}
